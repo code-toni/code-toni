@@ -2,7 +2,7 @@
 
 🚀 **Code Sorcerer | Laravel & Vue.js Enthusiast** 🎯  
 
-I'm a **Full Stack Developer** who loves turning coffee into clean code and crafting awesome web apps with **Laravel** and **Vue.js**. I live for well-structured architectures, seamless user experiences, and the occasional meme break.  
+I'm a **Full Stack Developer** who loves turning coffee ☕️ into clean code and crafting awesome web apps with **Laravel** and **Vue.js**. I live for well-structured architectures, seamless user experiences, and the occasional meme break.  
 
 ## 🛠️ My Trusty Toolbox for the Web...
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
