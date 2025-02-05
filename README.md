@@ -1,11 +1,10 @@
-# Hi there! I'm a Full Stack Developer 👋
+# Hey there! I'm a Full Stack Dev Extraordinaire 🎩✨
 
-🚀 **Full Stack Developer | Laravel & Vue.js Enthusiast** 🎯  
+🚀 **Code Sorcerer | Laravel & Vue.js Enthusiast** 🎯  
 
-I'm a passionate **Full Stack Developer** who loves building scalable web applications with **Laravel** and **Vue.js**. I thrive on clean code, well-structured architectures, and crafting seamless user experiences.  
+I'm a **Full Stack Developer** who loves turning coffee into clean code and crafting awesome web apps with **Laravel** and **Vue.js**. I live for well-structured architectures, seamless user experiences, and the occasional meme break.  
 
-## 🛠️ Tech Stack
-
+## 🛠️ My Trusty Toolbox for the Web...
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -14,20 +13,20 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 🔥 What I Do
-- 🔹 **Backend wizardry** with Laravel (RESTful APIs, authentication, queues, and more)  
-- 🔹 **Frontend magic** with Vue.js, Angular, and Svelte (SPA, Vuex, Pinia, Composition API)  
-- 🔹 **DevOps & CI/CD** (Docker, GitHub Actions, AWS, Vercel)  
-- 🔹 **Database design & optimization** (MySQL, PostgreSQL)  
+## ... and the Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+## 🎩 What I Actually Do (Besides Debugging at 2 AM)
+- 🔹 **Backend magic** with Laravel (yes, I talk to SQL more than people)  
+- 🔹 **Frontend wizardry** with Vue.js, Angular, and Svelte (because buttons should feel smooth)  
+- 🔹 **DevOps & CI/CD adventures** (Docker, Plesk, AWS – basically, I press deploy and pray)  
+- 🔹 **Database tinkering** (MySQL, PostgreSQL, MongoDB and whatever else refuses to cooperate)  
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/antonio-lorenzo-froncillo-13786b28a/])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anto_mmiv)
 
 ---
-💡 _Always eager to explore new technologies, contribute to open source, and build amazing projects!_
-
+💡 _Always coding, always learning, and definitely always debugging._
