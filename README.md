@@ -37,3 +37,6 @@ When I'm not knee-deep in code, you might find me exploring a new country, soaki
 
 ---
 💡 _Always coding, always learning, and definitely always debugging._
+
+
+![Thank God i Took that Coding Course](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b7611bvfksprleyo8x4w9c6svkch1kt8xn0xw5oazhqcf&ep=v1_gifs_search&rid=giphy.gif&ct=g)
